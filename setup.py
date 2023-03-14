@@ -5,4 +5,4 @@ setup(name='enter name of program here',
       description='By: K. Davis 2023',
       executables=[Executable('python file name here.py')])
 
-# run this command in the cmd - "python setup.py build"
+# run this command in the cmd, in the same dir as the python program - "python setup.py build"
