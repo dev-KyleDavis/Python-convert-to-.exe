@@ -1,5 +1,5 @@
 # -*- mode: python ; coding: utf-8 -*-
-
+#run this under the dir of the python code in cmd ,  python -m PyInstaller --name="filename.spec" --onefile "program-name.py"
 
 block_cipher = None
 
